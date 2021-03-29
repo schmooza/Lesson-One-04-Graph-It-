@@ -1,0 +1,5 @@
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/#9.-Pairwise-Plot
+
+https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
+
+https://github.com/WillKoehrsen/Data-Analysis/blob/master/pairplots/Pair%20Plots.ipynb

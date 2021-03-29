@@ -1,0 +1,54 @@
+1) Run the code (it will take a while to install things.)
+
+2) Notice that a new file was made called graph03.png
+
+3) Open the file and see the graph.
+
+
+4) Xhange the dot color
+
+plt.scatter(xList,yList, color='blue')
+
+5) Make a different type of graph
+
+#plt.scatter(xList,yList, color='blue')
+plt.plot(xList,yList)
+
+
+6) Make a super crazy graph
+#plt.scatter(xList,yList, color='blue')
+#plt.plot(xList,yList)
+
+plt.figure(figsize=(10,8), dpi= 72)
+sns.pairplot(df)
+
+
+7 Make your own data. 
+Change the numbers in data.csv
+for example
+
+#old data
+
+x,y,z
+-8,1020,-16
+-12,1024,-16
+-8,1024,-16
+-4,1020,-8
+-8,1020,-8
+-4,1020,-16
+-4,1028,-8
+-8,1032,-12
+
+#new data
+1,2,3
+4,5,6
+
+
+8 Make cool graphs
+# see examples at the bottom of page. 
+
+https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html
+
+
+
+
